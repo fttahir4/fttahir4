@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="400" viewBox="0 0 940 400" role="img" aria-label="Fanizza Tahir, selected works: a record half out of its sleeve with a tracklist of projects">
+  <style>
+    .name { font: 900 34px 'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif; letter-spacing: 1px; }
+    .small { font: 700 11px 'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif; letter-spacing: 3px; }
+    .foot { font: 600 9.5px 'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif; letter-spacing: 1.5px; }
+    .mono { font: 900 26px 'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif; letter-spacing: 2px; }
+    .rpm { font: 700 7.5px 'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif; letter-spacing: 1.5px; }
+    .head { font: 700 12px 'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif; letter-spacing: 3px; fill: #efe4d4; opacity: 0.85; }
+    .side { font: 700 13px ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace; fill: #c8552e; }
+    .title { font: 700 16px 'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif; fill: #efe4d4; }
+    .desc { font: 400 11.5px 'Helvetica Neue', Helvetica, Arial, 'DejaVu Sans', sans-serif; fill: #efe4d4; opacity: 0.55; }
+    .time { font: 500 13px ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace; fill: #efe4d4; opacity: 0.8; }
+  </style>
+  <rect width="940" height="400" rx="14" fill="#151110"/>
+  
+    <defs>
+      <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0.30" stop-color="#fff" stop-opacity="0"/>
+        <stop offset="0.45" stop-color="#fff" stop-opacity="0.07"/>
+        <stop offset="0.55" stop-color="#fff" stop-opacity="0.03"/>
+        <stop offset="0.70" stop-color="#fff" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 430 200" to="360 430 200" dur="24s" repeatCount="indefinite"/>
+      <circle cx="430" cy="200" r="165" fill="#0d0a09"/>
+      <circle cx="430" cy="200" r="66.0" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="70.5" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="73.6" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="76.7" fill="none" stroke="#3a302a" stroke-width="1.4"/>
+      <circle cx="430" cy="200" r="79.8" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="84.3" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="87.4" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="90.5" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="93.6" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="98.1" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="101.2" fill="none" stroke="#3a302a" stroke-width="1.4"/>
+      <circle cx="430" cy="200" r="104.3" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="107.4" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="111.9" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="115.0" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="118.1" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="121.2" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="125.7" fill="none" stroke="#3a302a" stroke-width="1.4"/>
+      <circle cx="430" cy="200" r="128.8" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="131.9" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="135.0" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="139.5" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="142.6" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="145.7" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="148.8" fill="none" stroke="#3a302a" stroke-width="1.4"/>
+      <circle cx="430" cy="200" r="153.3" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="156.4" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="159.5" fill="none" stroke="#241d19" stroke-width="0.9"/>
+      <circle cx="430" cy="200" r="56" fill="#c8552e"/>
+      <circle cx="430" cy="200" r="50" fill="none" stroke="#efe4d4" stroke-opacity="0.35"/>
+      <text x="430" y="184" class="mono" text-anchor="middle" fill="#efe4d4">FT</text>
+      <text x="430" y="228" class="rpm" text-anchor="middle" fill="#efe4d4">33&#8531; RPM &#183; SIDE A</text>
+    </g>
+    <circle cx="430" cy="200" r="165" fill="url(#sheen)"/>
+    <circle cx="430" cy="200" r="4" fill="#151110"/>
+  
+    <rect x="46" y="48" width="320" height="320" rx="3" fill="#000" opacity="0.45"/>
+    <rect x="40" y="40" width="320" height="320" rx="3" fill="#efe4d4"/>
+    <clipPath id="art"><rect x="60" y="60" width="280" height="200"/></clipPath>
+    <g clip-path="url(#art)">
+      <rect x="60" y="190" width="280" height="44" fill="#1c2a4a"/>
+      <circle cx="160" cy="150" r="56" fill="#c8552e"/>
+      <circle cx="160" cy="150" r="74" fill="none" stroke="#1c2a4a" stroke-width="2"/>
+      <circle cx="160" cy="150" r="92" fill="none" stroke="#1c2a4a" stroke-width="2"/>
+      <circle cx="160" cy="150" r="110" fill="none" stroke="#1c2a4a" stroke-width="2"/>
+      <circle cx="160" cy="150" r="128" fill="none" stroke="#1c2a4a" stroke-width="2"/>
+      <circle cx="160" cy="150" r="146" fill="none" stroke="#1c2a4a" stroke-width="2"/>
+    </g>
+    <text x="60" y="286" class="small" fill="#1c2a4a">SELECTED WORKS &#183; VOL. 1</text>
+    <text x="60" y="322" class="name" fill="#1c2a4a" textLength="280" lengthAdjust="spacingAndGlyphs">FANIZZA TAHIR</text>
+    <line x1="60" y1="336" x2="340" y2="336" stroke="#1c2a4a" stroke-opacity="0.35"/>
+    <text x="60" y="349" class="foot" fill="#1c2a4a">JMU &#183; COMPUTER SCIENCE &#183; 2027</text>
+    <text x="340" y="349" class="foot" fill="#c8552e" text-anchor="end">FT-001</text>
+  
+    <text x="625" y="66" class="head">TRACKLIST</text>
+    <text x="900" y="66" class="head" text-anchor="end">33&#8531; RPM</text>
+    <line x1="625" y1="78" x2="900" y2="78" stroke="#c8552e" stroke-width="1.5"/>
+    <text x="625" y="112" class="side">A1</text>
+    <text x="659" y="112" class="title">aws-cloud-qbench</text>
+    <text x="900" y="112" class="time" text-anchor="end">4:12</text>
+    <text x="659" y="129" class="desc">quantum vs classical on AWS Braket</text>
+    <line x1="625" y1="141" x2="900" y2="141" stroke="#efe4d4" stroke-opacity="0.12"/>
+    <text x="625" y="164" class="side">A2</text>
+    <text x="659" y="164" class="title">QuantumDex</text>
+    <text x="900" y="164" class="time" text-anchor="end">3:48</text>
+    <text x="659" y="181" class="desc">a Qiskit + pygame creature game</text>
+    <line x1="625" y1="193" x2="900" y2="193" stroke="#efe4d4" stroke-opacity="0.12"/>
+    <text x="625" y="216" class="side">A3</text>
+    <text x="659" y="216" class="title">Smart CRM Helper</text>
+    <text x="900" y="216" class="time" text-anchor="end">5:06</text>
+    <text x="659" y="233" class="desc">AI CRM assistant, Salesforce AI Fellowship</text>
+    <line x1="625" y1="245" x2="900" y2="245" stroke="#efe4d4" stroke-opacity="0.12"/>
+    <text x="625" y="268" class="side">B1</text>
+    <text x="659" y="268" class="title">Faz FM</text>
+    <text x="900" y="268" class="time" text-anchor="end">3:27</text>
+    <text x="659" y="285" class="desc">ESP32 Spotify now-playing radio</text>
+    <line x1="625" y1="297" x2="900" y2="297" stroke="#efe4d4" stroke-opacity="0.12"/>
+    <text x="625" y="320" class="side">B2</text>
+    <text x="659" y="320" class="title">fttahir.com</text>
+    <text x="900" y="320" class="time" text-anchor="end">4:55</text>
+    <text x="659" y="337" class="desc">my macOS-themed portfolio site</text>
+    <line x1="625" y1="349" x2="900" y2="349" stroke="#efe4d4" stroke-opacity="0.12"/>
+    <text x="625" y="376" class="desc">total run time</text>
+    <text x="900" y="376" class="time" text-anchor="end">21:28</text>
+</svg>
